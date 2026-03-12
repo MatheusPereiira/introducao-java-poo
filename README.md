@@ -6,11 +6,11 @@ Exercícios iniciais em Java abordando lógica de programação, estruturas bás
 
 ### Parte 1
 
-![Atividades](screenshots/Screenshot_Atividades.png)
+![Atividades](screenshots/Screenshot_atividades.png)
 
 ### Parte 2
 
-![Atividades](screenshots/Screenshot_Atividades_2png.png)
+![Atividades](screenshots/Screenshot_atividades_2png.png)
 
 ## Exercícios
 
