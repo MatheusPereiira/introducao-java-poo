@@ -16,20 +16,13 @@ Exercícios iniciais em Java abordando lógica de programação, estruturas bás
 
 ---
 
-## Exercícios
+## Objetivo
 
-- Restaurante.java
-- Cervejaria.java
-- Circulo.java
-- Padaria.java
-- Sanduiche.java
-- Cofre.java
-- Time.java
-- etc...
+Praticar a construção de algoritmos,fundamentais para o desenvolvimento de sistemas em Java.
 
 ---
 
-##  Tecnologias
+##  Tecnologias Utilizadas
 
 - Java
 - Lógica de programação
